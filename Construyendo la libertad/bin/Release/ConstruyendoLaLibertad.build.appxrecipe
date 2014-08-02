@@ -1,0 +1,302 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>FERNANDO</Machine>
+    <WindowsUser>Fernando</WindowsUser>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>54a5d66d-a652-432d-acbc-b64798332877</PackageIdentityName>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\index.html">
+      <PackagePath>index.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\about.html">
+      <PackagePath>about.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\support.html">
+      <PackagePath>support.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\privacy.html">
+      <PackagePath>privacy.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\c2runtime.js">
+      <PackagePath>c2runtime.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\jquery-2.0.0.min.js">
+      <PackagePath>jquery-2.0.0.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\images\panel1-sheet0.png">
+      <PackagePath>images\panel1-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\images\botonjugar-sheet0.png">
+      <PackagePath>images\botonjugar-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\images\botoncreditos-sheet0.png">
+      <PackagePath>images\botoncreditos-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\images\pedro-sheet0.png">
+      <PackagePath>images\pedro-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\images\pedro-sheet1.png">
+      <PackagePath>images\pedro-sheet1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\images\sombra_pedro-sheet0.png">
+      <PackagePath>images\sombra_pedro-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\images\piso1.png">
+      <PackagePath>images\piso1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\images\tiledbackground.png">
+      <PackagePath>images\tiledbackground.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\images\luna1-sheet0.png">
+      <PackagePath>images\luna1-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\images\fondo1.png">
+      <PackagePath>images\fondo1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\images\fondo2.png">
+      <PackagePath>images\fondo2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\images\casa1-sheet0.png">
+      <PackagePath>images\casa1-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\images\cajanivel1-sheet0.png">
+      <PackagePath>images\cajanivel1-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\images\inicio1-sheet0.png">
+      <PackagePath>images\inicio1-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\images\grapas-sheet0.png">
+      <PackagePath>images\grapas-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\images\inicio2-sheet0.png">
+      <PackagePath>images\inicio2-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\images\illimani-sheet0.png">
+      <PackagePath>images\illimani-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\images\montana1.png">
+      <PackagePath>images\montana1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\images\botonpausa-sheet0.png">
+      <PackagePath>images\botonpausa-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\images\tecladerecha-sheet0.png">
+      <PackagePath>images\tecladerecha-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\images\teclaizquierda-sheet0.png">
+      <PackagePath>images\teclaizquierda-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\images\botonsaltar-sheet0.png">
+      <PackagePath>images\botonsaltar-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\images\sombra-sheet0.png">
+      <PackagePath>images\sombra-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\images\fonttiempo.png">
+      <PackagePath>images\fonttiempo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\images\fuego.png">
+      <PackagePath>images\fuego.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\images\tea-sheet0.png">
+      <PackagePath>images\tea-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\images\casa2-sheet0.png">
+      <PackagePath>images\casa2-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\images\casa3-sheet0.png">
+      <PackagePath>images\casa3-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\images\nube-sheet0.png">
+      <PackagePath>images\nube-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\images\puntero1-sheet0.png">
+      <PackagePath>images\puntero1-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\images\puntero2-sheet0.png">
+      <PackagePath>images\puntero2-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\images\rata-sheet0.png">
+      <PackagePath>images\rata-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\images\muro-sheet0.png">
+      <PackagePath>images\muro-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\images\botonfuego-sheet0.png">
+      <PackagePath>images\botonfuego-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\images\panelpausa-sheet0.png">
+      <PackagePath>images\panelpausa-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\images\botoncontinuar-sheet0.png">
+      <PackagePath>images\botoncontinuar-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\images\botonreiniciar-sheet0.png">
+      <PackagePath>images\botonreiniciar-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\images\botonsalir-sheet0.png">
+      <PackagePath>images\botonsalir-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\images\panelgameover-sheet0.png">
+      <PackagePath>images\panelgameover-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\images\fin-sheet0.png">
+      <PackagePath>images\fin-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\images\botonmusica1-sheet0.png">
+      <PackagePath>images\botonmusica1-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\images\botonmusica2-sheet0.png">
+      <PackagePath>images\botonmusica2-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\images\fondo-sheet0.png">
+      <PackagePath>images\fondo-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\images\botonatras-sheet0.png">
+      <PackagePath>images\botonatras-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\images\levels-sheet0.png">
+      <PackagePath>images\levels-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\images\particles.png">
+      <PackagePath>images\particles.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\images\panelganaste-sheet0.png">
+      <PackagePath>images\panelganaste-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\images\iconotea-sheet0.png">
+      <PackagePath>images\iconotea-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\images\iconovida-sheet0.png">
+      <PackagePath>images\iconovida-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\images\plataforma-sheet0.png">
+      <PackagePath>images\plataforma-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\images\rata2-sheet0.png">
+      <PackagePath>images\rata2-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\images\pared-sheet0.png">
+      <PackagePath>images\pared-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\images\enemigo-sheet0.png">
+      <PackagePath>images\enemigo-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\images\tuto1-sheet0.png">
+      <PackagePath>images\tuto1-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\images\tuto2-sheet0.png">
+      <PackagePath>images\tuto2-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\images\tuto3-sheet0.png">
+      <PackagePath>images\tuto3-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\images\tuto4-sheet0.png">
+      <PackagePath>images\tuto4-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\images\portal-sheet0.png">
+      <PackagePath>images\portal-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\images\flecha-sheet0.png">
+      <PackagePath>images\flecha-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\images\paloma-sheet0.png">
+      <PackagePath>images\paloma-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\images\poop-sheet0.png">
+      <PackagePath>images\poop-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\images\pisoelastico-sheet0.png">
+      <PackagePath>images\pisoelastico-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\images\poopexplosion.png">
+      <PackagePath>images\poopexplosion.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\images\canon-sheet0.png">
+      <PackagePath>images\canon-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\images\pisocannon-sheet0.png">
+      <PackagePath>images\pisocannon-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\images\piedra-sheet0.png">
+      <PackagePath>images\piedra-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\images\persona1-sheet0.png">
+      <PackagePath>images\persona1-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\images\persona2-sheet0.png">
+      <PackagePath>images\persona2-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\images\persona3-sheet0.png">
+      <PackagePath>images\persona3-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\images\persona4-sheet0.png">
+      <PackagePath>images\persona4-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\images\correr-sheet0.png">
+      <PackagePath>images\correr-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\icon-16.png">
+      <PackagePath>icon-16.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\icon-32.png">
+      <PackagePath>icon-32.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\icon-114.png">
+      <PackagePath>icon-114.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\icon-128.png">
+      <PackagePath>icon-128.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\icon-256.png">
+      <PackagePath>icon-256.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\loading-logo.png">
+      <PackagePath>loading-logo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\app-logo.png">
+      <PackagePath>app-logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\app-smalllogo.png">
+      <PackagePath>app-smalllogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\app-storelogo.png">
+      <PackagePath>app-storelogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\splashscreen.png">
+      <PackagePath>splashscreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\media\musica.m4a">
+      <PackagePath>media\musica.m4a</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\WindowsStoreProxy.xml">
+      <PackagePath>WindowsStoreProxy.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\bin\Release\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\">
+      <Name>Microsoft.WinJS.2.0</Name>
+      <Version>1.0.9600.16408</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.2.0, MinVersion=1.0.9600.16408</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\Microsoft.WinJS.2.0.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkId=260891</MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

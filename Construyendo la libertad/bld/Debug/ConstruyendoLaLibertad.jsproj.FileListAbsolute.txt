@@ -1,0 +1,15 @@
+C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\bin\Debug\ReverseMap\resources.pri
+C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\bin\Debug\AppxManifest.xml
+C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\bin\Debug\ConstruyendoLaLibertad.build.appxrecipe
+C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\bld\Debug\priconfig.xml
+C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\bld\Debug\priconfig.xml.intermediate
+C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\bld\Debug\layout.resfiles
+C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\bld\Debug\layout.resfiles.intermediate
+C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\bld\Debug\resources.resfiles
+C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\bld\Debug\resources.resfiles.intermediate
+C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\bld\Debug\pri.resfiles
+C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\bld\Debug\pri.resfiles.intermediate
+C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\bld\Debug\qualifiers.txt
+C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\bld\Debug\qualifiers.txt.intermediate
+C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Fernando\Desktop\Juego Construyendo la libertad\Juego Windows8\New folder\bld\Debug\ProjectArchitectures.txt

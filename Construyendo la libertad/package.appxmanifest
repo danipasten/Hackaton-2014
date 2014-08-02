@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest" xmlns:m2="http://schemas.microsoft.com/appx/2013/manifest">
+  <Identity Name="54a5d66d-a652-432d-acbc-b64798332877" Version="1.0.0.0" Publisher="CN=Fernando" />
+  <Properties>
+    <DisplayName>Construyendo la libertad</DisplayName>
+    <Description>Pedro es un compatriota Boliviano que busca la libertad para la poblacion de la paz, y se enfrentara en contra del imperio espanol.</Description>
+    <PublisherDisplayName>CrazyRats</PublisherDisplayName>
+    <Logo>app-storelogo.png</Logo>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.3.0</OSMinVersion>
+    <OSMaxVersionTested>6.3.0</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="x-generate" />
+  </Resources>
+  <Applications>
+    <Application Id="App" StartPage="index.html">
+      <m2:VisualElements DisplayName="Construyendo la libertad" Description="Pedro es un compatriota Boliviano que busca la libertad para la poblacion de la paz, y se enfrentara en contra del imperio espanol." BackgroundColor="#464646" ForegroundText="light" Square150x150Logo="app-logo.png" Square30x30Logo="app-smalllogo.png">
+        <m2:DefaultTile>
+          <m2:ShowNameOnTiles>
+            <m2:ShowOn Tile="square150x150Logo" />
+          </m2:ShowNameOnTiles>
+        </m2:DefaultTile>
+        <m2:SplashScreen Image="splashscreen.png" />
+        <m2:InitialRotationPreference>
+          <m2:Rotation Preference="landscape" />
+          <m2:Rotation Preference="landscapeFlipped" />
+        </m2:InitialRotationPreference>
+      </m2:VisualElements>
+    </Application>
+  </Applications>
+  <Capabilities>
+    <Capability Name="internetClient" />
+  </Capabilities>
+</Package>
